@@ -15,6 +15,9 @@ gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 gem 'faraday-retry'
 group :jekyll_plugins do
+  gem 'webrick'
+end
+group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
 end
 

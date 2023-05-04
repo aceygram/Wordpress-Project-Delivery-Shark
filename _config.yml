@@ -1,5 +1,6 @@
 title: Delivery Shark
 description: A simple Jekyll site
-baseurl: /_site
+baseurl: /
 url: https://aceygram.github.io/
+require: 'webrick'
 

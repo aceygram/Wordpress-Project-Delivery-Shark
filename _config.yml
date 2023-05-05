@@ -2,5 +2,5 @@ title: Delivery Shark
 description: A simple Jekyll site
 domain: aceygram.github.io
 url: https://aceygram.github.io
-baseurl: /
+baseurl: /Wordpress-Project-Delivery-Shark/_site
 require: 'webrick'

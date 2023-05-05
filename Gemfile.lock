@@ -256,7 +256,7 @@ PLATFORMS
 
 DEPENDENCIES
   faraday-retry
-  github-pages
+  github-pages (~> 228)
   jekyll-feed (~> 0.12)
   minima (~> 2.5)
   webrick
